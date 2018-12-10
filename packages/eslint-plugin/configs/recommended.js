@@ -4,6 +4,7 @@ module.exports = {
 		require.resolve( './jsx-a11y.js' ),
 		require.resolve( './react.js' ),
 		require.resolve( './custom.js' ),
+		require.resolve( './wordpress.js' ),
 		require.resolve( './esnext.js' ),
 	],
 	env: {
